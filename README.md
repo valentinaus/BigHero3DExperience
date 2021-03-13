@@ -84,6 +84,7 @@ Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena pa
 ![4](https://user-images.githubusercontent.com/42383401/111044662-e1a91180-8417-11eb-9496-e5063baea64c.PNG)
 ![2](https://user-images.githubusercontent.com/42383401/111044793-abb85d00-8418-11eb-9965-f7a2390a8092.PNG)
 
+##
 ### Texturas
 
 Una vez ubicados los elementos en la escena se les van poniendo las texturas
@@ -91,4 +92,31 @@ Una vez ubicados los elementos en la escena se les van poniendo las texturas
 ![textuas3](https://user-images.githubusercontent.com/42383401/111044834-ddc9bf00-8418-11eb-8724-2ae91ecec247.PNG)
 ![texturas2](https://user-images.githubusercontent.com/42383401/111044835-defaec00-8418-11eb-8073-03701c8b9f99.PNG)
 ![con textura](https://user-images.githubusercontent.com/42383401/111044836-e0c4af80-8418-11eb-91ba-b4abec22430a.PNG)
+
+##
+### iluminación y preview
+A medida que se le van poniendo las texturas, se le pone la iluminación y se hace un preview del render para asegurar que se ve como se espera.
+![esquina](https://user-images.githubusercontent.com/42383401/111044890-42851980-8419-11eb-95c0-818b958adef3.PNG)
+![esquina3](https://user-images.githubusercontent.com/42383401/111044894-4749cd80-8419-11eb-9b30-e1d32f8efc1f.PNG)
+![mesaherra](https://user-images.githubusercontent.com/42383401/111044896-49139100-8419-11eb-9de9-760221ce05dc.PNG)
+![reders](https://user-images.githubusercontent.com/42383401/111044900-4ca71800-8419-11eb-865b-9bdda161300f.PNG)
+![unknown](https://user-images.githubusercontent.com/42383401/111045048-fededf80-8419-11eb-9416-20a754b4a59d.png)
+
+##
+### Renders de prueba
+En esta etapa se hacen renders de prueba para ver el resultado en cuanto a modelos, texturas e iluminación finales
+![WhatsApp Image 2020-06-04 at 19 42 33](https://user-images.githubusercontent.com/42383401/111044945-811ad400-8419-11eb-926f-291326906faf.jpeg)
+![2](https://user-images.githubusercontent.com/42383401/111044947-82e49780-8419-11eb-9bb9-d44bfad50eae.png)
+
+##
+### Renders 360
+Una vez conseguido el resultado esperado se sacan los renders 360 para poder crear la experiencia 
+![render1JPG](https://user-images.githubusercontent.com/42383401/111045038-f4244a80-8419-11eb-8180-4fc1a1d71e3e.jpg)
+![render](https://user-images.githubusercontent.com/42383401/111045074-2cc42400-841a-11eb-8cbe-068081a95b4c.PNG)
+![render2JPG](https://user-images.githubusercontent.com/42383401/111045034-eec70000-8419-11eb-8f84-b3d34e072ccc.jpg)
+
+##
+Finalmente, se sube a Youtube.
+Si deseas ver la experiencia ingresa aquí: https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
+
 
