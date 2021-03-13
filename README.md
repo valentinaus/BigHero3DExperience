@@ -8,7 +8,7 @@ Desarrollar una experiencia 3D visualizable en tecnologías de realidad virtual 
 
 ## Especificaciones
 
-- Desarrollado en Maya 2020.
+- Desarrollado en Maya 2020.1.
 - Texturizado en Substance Painter 2020.
 - Adobe Photoshop 2020.
 
