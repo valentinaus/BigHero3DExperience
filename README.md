@@ -118,6 +118,6 @@ Una vez conseguido el resultado esperado se sacan los renders 360 para poder cre
 ##
 Finalmente, se sube a Youtube.
 
-Si deseas ver la experiencia ingresa aquí: https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
+Si deseas ver la experiencia ingresa aquí (Escoge calidad 4K): https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
 
 
