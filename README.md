@@ -70,7 +70,6 @@ A partir de los elementos definidos en el desgloce, primero se modela el entorno
 ##
 #### Objetos
 ![armario](https://user-images.githubusercontent.com/42383401/111044563-5760ad80-8417-11eb-8143-2fd5318d86a4.PNG)
-![cosasmesa](https://user-images.githubusercontent.com/42383401/111044570-5c256180-8417-11eb-8dfd-8b8e07ee33d6.PNG)
 ![cosassmmesa2](https://user-images.githubusercontent.com/42383401/111044572-5def2500-8417-11eb-93b8-fc4575324446.PNG)
 ![2 4](https://user-images.githubusercontent.com/42383401/111044574-5fb8e880-8417-11eb-93df-b1ef5ae57e81.PNG)
 ![repisa](https://user-images.githubusercontent.com/42383401/111044576-634c6f80-8417-11eb-8fe7-e93cb066283f.PNG)
