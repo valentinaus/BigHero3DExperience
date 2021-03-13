@@ -26,7 +26,7 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 
 
 ### Modelado
-A partir de los elementos encontrados en el desgloce, primero se modela el entorno en donde se posicionarán y después se va modelando cada uno de ellos.
+A partir de los elementos definidos en el desgloce, primero se modela el entorno en donde se posicionarán tomando como referencia las proporciones, tamaño y altura del personaje central y después se va modelando cada uno de ellos.
 
 #### Entorno
 ![1](https://user-images.githubusercontent.com/42383401/111044546-3dbf6600-8417-11eb-83d8-78caadf6d185.PNG)
