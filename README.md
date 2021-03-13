@@ -75,9 +75,9 @@ A partir de los elementos definidos en el desgloce, primero se modela el entorno
 
 
 ##
-Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena para tener claras las proporciones teniendo como base el personaje central, su altura y su tamaño. Después se van ubicando los objetos modelados dentro de la escena.
+Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena para tener claras las proporciones. Después se van ubicando los objetos modelados dentro de ella.!
 
 ![2 1](https://user-images.githubusercontent.com/42383401/111044652-d950d680-8417-11eb-9b70-079180687d84.PNG)
 ![2 3](https://user-images.githubusercontent.com/42383401/111044654-dce45d80-8417-11eb-8b8e-44408eb43b53.PNG)
 ![4](https://user-images.githubusercontent.com/42383401/111044662-e1a91180-8417-11eb-9496-e5063baea64c.PNG)
-
+![2](https://user-images.githubusercontent.com/42383401/111044793-abb85d00-8418-11eb-9965-f7a2390a8092.PNG)
