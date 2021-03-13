@@ -108,6 +108,7 @@ En esta etapa se hacen renders de prueba para ver el resultado en cuanto a model
 ![WhatsApp Image 2020-06-04 at 19 42 33](https://user-images.githubusercontent.com/42383401/111044945-811ad400-8419-11eb-926f-291326906faf.jpeg)
 ![2](https://user-images.githubusercontent.com/42383401/111044947-82e49780-8419-11eb-9bb9-d44bfad50eae.png)
 
+
 ##
 ### Renders 360
 Una vez conseguido el resultado esperado se sacan los renders 360 para poder crear la experiencia .
@@ -117,6 +118,11 @@ Una vez conseguido el resultado esperado se sacan los renders 360 para poder cre
 
 ##
 Finalmente, se sube a Youtube.
+![6](https://user-images.githubusercontent.com/42383401/111050725-554d1d80-841c-11eb-8428-df490f29a74e.PNG)
+![4](https://user-images.githubusercontent.com/42383401/111050726-58e0a480-841c-11eb-86e3-f6b44f8359e0.PNG)
+![1](https://user-images.githubusercontent.com/42383401/111050730-5bdb9500-841c-11eb-9133-041cef23fecd.PNG)
+![9](https://user-images.githubusercontent.com/42383401/111050735-5f6f1c00-841c-11eb-8c3e-200e5ec8102e.PNG)
+
 
 Si deseas ver la experiencia ingresa aquí (Escoge calidad 4K): https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
 
