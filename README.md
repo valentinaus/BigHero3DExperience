@@ -25,19 +25,19 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 ![cosito3](https://user-images.githubusercontent.com/42383401/111044475-fcc75180-8416-11eb-8b29-a2b25b95761a.PNG)
 
 #### Lista
-1.Mangueras colgadas.
+1. Mangueras colgadas.
 2. Cajas apiladas
 3. Mesa con caja y tornillos
-4.Estante colgando del techo con cajas cuadradas y redondas.
-5.Lámpara
-6.Mesa desgastada con caja de lápices
-7.Robot
-8.Mesa de PC
-9.Silla de ruedas
+4. Estante colgando del techo con cajas cuadradas y redondas.
+5. Lámpara
+6. Mesa desgastada con caja de lápices
+7. Robot
+8. Mesa de PC
+9. Silla de ruedas
 10. Máquina
-11.Tubos
-12.Mesa con libros
-13.Estante con tv viejo y lampara de lava
+11. Tubos
+12. Mesa con libros
+13. Estante con tv viejo y lampara de lava
 14. sofá
 15. Estantes con cajas
 16. Mesa con cajones y maletas pequeñas
