@@ -20,9 +20,44 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 ![esv](https://user-images.githubusercontent.com/42383401/111044413-8fb3bc00-8416-11eb-9b3d-6a5c40ce0a74.PNG)
 
 ### Desgloce
-![cosit](https://user-images.githubusercontent.com/42383401/111044448-d3a6c100-8416-11eb-8949-0e4f17aa4632.PNG)
+![cosit](https://user-images.githubusercontent.com/42383401/111044714-3482c900-8418-11eb-8a5e-7f1173f812f5.PNG)
 ![cosito2](https://user-images.githubusercontent.com/42383401/111044458-ec16db80-8416-11eb-911a-96b308c39066.PNG)
 ![cosito3](https://user-images.githubusercontent.com/42383401/111044475-fcc75180-8416-11eb-8b29-a2b25b95761a.PNG)
+
+#### Lista
+1.Mangueras colgadas.
+2. Cajas apiladas
+3. Mesa con caja y tornillos
+4.Estante colgando del techo con cajas cuadradas y redondas.
+5.Lámpara
+6.Mesa desgastada con caja de lápices
+7.Robot
+8.Mesa de PC
+9.Silla de ruedas
+10. Máquina
+11.Tubos
+12.Mesa con libros
+13.Estante con tv viejo y lampara de lava
+14. sofá
+15. Estantes con cajas
+16. Mesa con cajones y maletas pequeñas
+17. PC Hiro
+18. Ventilador
+19. Estantes con libros y cajas
+20. Carrito
+21. Mesa larga con cajas y cajones dentro
+22. Resorte colgando
+23. Cajas desordenadas en el suelo
+24. Tablero con notas
+25. Cajones
+26. Hijos enrollados
+27. Repisa colgante
+28. Máquina
+29. Folders
+30. Cajas
+
+
+
 
 
 ### Modelado
