@@ -20,8 +20,23 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 ![esv](https://user-images.githubusercontent.com/42383401/111044413-8fb3bc00-8416-11eb-9b3d-6a5c40ce0a74.PNG)
 
 ### Desgloce
-![cosito2](https://user-images.githubusercontent.com/42383401/111044458-ec16db80-8416-11eb-911a-96b308c39066.PNG)
 ![cosit](https://user-images.githubusercontent.com/42383401/111044448-d3a6c100-8416-11eb-8949-0e4f17aa4632.PNG)
+![cosito2](https://user-images.githubusercontent.com/42383401/111044458-ec16db80-8416-11eb-911a-96b308c39066.PNG)
 ![cosito3](https://user-images.githubusercontent.com/42383401/111044475-fcc75180-8416-11eb-8b29-a2b25b95761a.PNG)
+
+
+### Modelado
+A partir de los elementos encontrados en el desgloce, primero se modela el entorno en donde se posicionaran y después se va modelando cada uno de ellos.
+
+#### Entorno
+![1](https://user-images.githubusercontent.com/42383401/111044546-3dbf6600-8417-11eb-83d8-78caadf6d185.PNG)
+
+#### Objetos
+![armario](https://user-images.githubusercontent.com/42383401/111044563-5760ad80-8417-11eb-8143-2fd5318d86a4.PNG)
+![cosasmesa](https://user-images.githubusercontent.com/42383401/111044570-5c256180-8417-11eb-8dfd-8b8e07ee33d6.PNG)
+![cosassmmesa2](https://user-images.githubusercontent.com/42383401/111044572-5def2500-8417-11eb-93b8-fc4575324446.PNG)
+![2 4](https://user-images.githubusercontent.com/42383401/111044574-5fb8e880-8417-11eb-93df-b1ef5ae57e81.PNG)
+![repisa](https://user-images.githubusercontent.com/42383401/111044576-634c6f80-8417-11eb-8fe7-e93cb066283f.PNG)
+
 
 
