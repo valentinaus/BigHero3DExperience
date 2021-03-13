@@ -91,7 +91,6 @@ Una vez ubicados los elementos en la escena, se les van poniendo las texturas.
 ![text](https://user-images.githubusercontent.com/42383401/111044830-dbfffb80-8418-11eb-9a0c-107ff3b4114a.PNG)
 ![textuas3](https://user-images.githubusercontent.com/42383401/111044834-ddc9bf00-8418-11eb-8724-2ae91ecec247.PNG)
 ![texturas2](https://user-images.githubusercontent.com/42383401/111044835-defaec00-8418-11eb-8073-03701c8b9f99.PNG)
-![con textura](https://user-images.githubusercontent.com/42383401/111044836-e0c4af80-8418-11eb-91ba-b4abec22430a.PNG)
 
 ##
 ### Iluminación y preview
