@@ -59,13 +59,15 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 
 
 
-
+##
 ### Modelado
 A partir de los elementos definidos en el desgloce, primero se modela el entorno en donde se posicionarán tomando como referencia las proporciones, tamaño y altura del personaje central y después se va modelando cada uno de ellos.
 
+##
 #### Entorno
 ![1](https://user-images.githubusercontent.com/42383401/111044546-3dbf6600-8417-11eb-83d8-78caadf6d185.PNG)
 
+##
 #### Objetos
 ![armario](https://user-images.githubusercontent.com/42383401/111044563-5760ad80-8417-11eb-8143-2fd5318d86a4.PNG)
 ![cosasmesa](https://user-images.githubusercontent.com/42383401/111044570-5c256180-8417-11eb-8dfd-8b8e07ee33d6.PNG)
@@ -81,3 +83,12 @@ Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena pa
 ![2 3](https://user-images.githubusercontent.com/42383401/111044654-dce45d80-8417-11eb-8b8e-44408eb43b53.PNG)
 ![4](https://user-images.githubusercontent.com/42383401/111044662-e1a91180-8417-11eb-9496-e5063baea64c.PNG)
 ![2](https://user-images.githubusercontent.com/42383401/111044793-abb85d00-8418-11eb-9965-f7a2390a8092.PNG)
+
+### Texturas
+
+Una vez ubicados los elementos en la escena se les van poniendo las texturas
+![text](https://user-images.githubusercontent.com/42383401/111044830-dbfffb80-8418-11eb-9a0c-107ff3b4114a.PNG)
+![textuas3](https://user-images.githubusercontent.com/42383401/111044834-ddc9bf00-8418-11eb-8724-2ae91ecec247.PNG)
+![texturas2](https://user-images.githubusercontent.com/42383401/111044835-defaec00-8418-11eb-8073-03701c8b9f99.PNG)
+![con textura](https://user-images.githubusercontent.com/42383401/111044836-e0c4af80-8418-11eb-91ba-b4abec22430a.PNG)
+
