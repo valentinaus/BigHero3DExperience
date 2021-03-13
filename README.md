@@ -6,7 +6,7 @@ Se  desarrolla una experiencia 3D con Maya y Substance Painter visualizable en t
 
 Desarrollar una experiencia 3D visualizable en tecnologías de realidad virtual (Oculus).
 
-# Especificaciones
+## Especificaciones
 
 - Desarrollado en Maya 2020.
 - Texturizado en Substance Painter 2020.
