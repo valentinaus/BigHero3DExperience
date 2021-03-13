@@ -20,6 +20,7 @@ Para desarrollar la experiencia se tomaron referencias detalladas de un escenari
 ![dg](https://user-images.githubusercontent.com/42383401/111044411-89254480-8416-11eb-8917-f02fbc1622a6.PNG)
 ![esv](https://user-images.githubusercontent.com/42383401/111044413-8fb3bc00-8416-11eb-9b3d-6a5c40ce0a74.PNG)
 
+##
 ### Desgloce
 ![cosit](https://user-images.githubusercontent.com/42383401/111044714-3482c900-8418-11eb-8a5e-7f1173f812f5.PNG)
 ![cosito2](https://user-images.githubusercontent.com/42383401/111044458-ec16db80-8416-11eb-911a-96b308c39066.PNG)
