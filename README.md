@@ -77,7 +77,7 @@ A partir de los elementos definidos en el desgloce, primero se modela el entorno
 
 
 ##
-Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena para tener claras las proporciones. Después se van ubicando los objetos modelados dentro de ella.!
+Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena para tener claras las proporciones. Después se van ubicando los objetos modelados dentro de ella.
 
 ![2 1](https://user-images.githubusercontent.com/42383401/111044652-d950d680-8417-11eb-9b70-079180687d84.PNG)
 ![2 3](https://user-images.githubusercontent.com/42383401/111044654-dce45d80-8417-11eb-8b8e-44408eb43b53.PNG)
@@ -87,15 +87,15 @@ Posteriormente, se ponen cubos del tamaño de los objetos dentro de la escena pa
 ##
 ### Texturas
 
-Una vez ubicados los elementos en la escena se les van poniendo las texturas
+Una vez ubicados los elementos en la escena, se les van poniendo las texturas.
 ![text](https://user-images.githubusercontent.com/42383401/111044830-dbfffb80-8418-11eb-9a0c-107ff3b4114a.PNG)
 ![textuas3](https://user-images.githubusercontent.com/42383401/111044834-ddc9bf00-8418-11eb-8724-2ae91ecec247.PNG)
 ![texturas2](https://user-images.githubusercontent.com/42383401/111044835-defaec00-8418-11eb-8073-03701c8b9f99.PNG)
 ![con textura](https://user-images.githubusercontent.com/42383401/111044836-e0c4af80-8418-11eb-91ba-b4abec22430a.PNG)
 
 ##
-### iluminación y preview
-A medida que se le van poniendo las texturas, se le pone la iluminación y se hace un preview del render para asegurar que se ve como se espera.
+### Iluminación y preview
+A medida que se le van poniendo las texturas, se le pone la iluminación y se hace un preview del render para asegurar que se vea como se espera.
 ![esquina](https://user-images.githubusercontent.com/42383401/111044890-42851980-8419-11eb-95c0-818b958adef3.PNG)
 ![esquina3](https://user-images.githubusercontent.com/42383401/111044894-4749cd80-8419-11eb-9b30-e1d32f8efc1f.PNG)
 ![mesaherra](https://user-images.githubusercontent.com/42383401/111044896-49139100-8419-11eb-9de9-760221ce05dc.PNG)
@@ -104,13 +104,13 @@ A medida que se le van poniendo las texturas, se le pone la iluminación y se ha
 
 ##
 ### Renders de prueba
-En esta etapa se hacen renders de prueba para ver el resultado en cuanto a modelos, texturas e iluminación finales
+En esta etapa se hacen renders de prueba para ver el resultado en cuanto a modelos, texturas e iluminación finales.
 ![WhatsApp Image 2020-06-04 at 19 42 33](https://user-images.githubusercontent.com/42383401/111044945-811ad400-8419-11eb-926f-291326906faf.jpeg)
 ![2](https://user-images.githubusercontent.com/42383401/111044947-82e49780-8419-11eb-9bb9-d44bfad50eae.png)
 
 ##
 ### Renders 360
-Una vez conseguido el resultado esperado se sacan los renders 360 para poder crear la experiencia 
+Una vez conseguido el resultado esperado se sacan los renders 360 para poder crear la experiencia .
 ![render1JPG](https://user-images.githubusercontent.com/42383401/111045038-f4244a80-8419-11eb-8180-4fc1a1d71e3e.jpg)
 ![render](https://user-images.githubusercontent.com/42383401/111045074-2cc42400-841a-11eb-8cbe-068081a95b4c.PNG)
 ![render2JPG](https://user-images.githubusercontent.com/42383401/111045034-eec70000-8419-11eb-8f84-b3d34e072ccc.jpg)
