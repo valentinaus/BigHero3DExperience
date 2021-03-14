@@ -12,6 +12,10 @@ Desarrollar una experiencia 3D visualizable en tecnologías de realidad virtual 
 - Texturizado en Substance Painter 2020.
 - Adobe Photoshop 2020.
 
+##
+
+Si deseas ver la experiencia ingresa aquí (Escoge calidad 4K): https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
+
 ## Proceso
 
 Para desarrollar la experiencia se tomaron referencias detalladas de un escenario específico de la película Big Hero 6 y se hizo un desgloce de las partes que se necesitarían.
@@ -125,6 +129,6 @@ Finalmente, se sube a Youtube.
 ![9](https://user-images.githubusercontent.com/42383401/111050735-5f6f1c00-841c-11eb-8c3e-200e5ec8102e.PNG)
 
 
-Si deseas ver la experiencia ingresa aquí (Escoge calidad 4K): https://www.youtube.com/watch?v=iS3zE6xQEBc&ab_channel=KEVINROMEROBEDOYA
+
 
 
